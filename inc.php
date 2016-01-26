@@ -12,7 +12,7 @@ if (!isset($_SESSION['ip'])) { // if new user
 <link rel="icon" type="image/png" href="favicon.png">
 <meta name="generator" content="YourKart" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-        <!-- <link href="css/yourkart.min.css" rel="stylesheet"> -->
+        <link href="css/yourkart.min.css" rel="stylesheet">
         <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/0.5.7/css/bootstrap-material-design.min.css" rel="stylesheet">
         <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/0.5.7/css/ripples.min.css" rel="stylesheet">
         <link href="" rel="stylesheet">
